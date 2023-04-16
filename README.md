@@ -1,3 +1,3 @@
 # my-learnings
 
-This is from a project I did to learn SQL
+Projects I've worked on in HTML, CSS, Javascript, and SQL
